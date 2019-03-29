@@ -1,7 +1,8 @@
-package com.werureo.mybank
+package com.werureo.mybank.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.werureo.mybank.R
 
 class MainActivity : AppCompatActivity() {
 
